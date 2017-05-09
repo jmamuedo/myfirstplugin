@@ -12,7 +12,7 @@ plugin_id="227">
 <qgis_minimum_version>1.8.0</qgis_minimum_version>
 <qgis_maximum_version>2.9.9</qgis_maximum_version>
 <homepage>
-<![CDATA[https://github.com/jmamuedo/myfirstplugin]]>
+<![CDATA[https://github.com/jmamuedo/myfirstplugin/]]>
 </homepage>
 <file_name>MyPlugin.0.1.0.zip</file_name>
 <icon>
@@ -30,7 +30,7 @@ https://github.com/jmamuedo/myfirstplugin/blob/master/icon.png
 <![CDATA[https://github.com/jmamuedo/myfirstplugin]]>
 </tracker>
 <repository>
-<![CDATA[https://geospatialpython.googlecode.com/svn/]]>
+<![CDATA[https://github.com/jmamuedo/myfirstplugin]]>
 </repository>
 <tags>
 <![CDATA[development,debugging,tools]]></tags>
